@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatUI</string>
+
+    <string-array name="Contacts">
+        <item>Luke</item>
+        <item>Han</item>
+        <item>Yoda</item>
+        <item>Obi-wan</item>
+        <item>Leia</item>
+    </string-array>
+    <string-array name="Msg">
+        <item>Hi</item>
+        <item>I know</item>
+        <item>There is no try</item>
+        <item>Hello there</item>
+        <item>Haha</item>
+    </string-array>
+</resources>
